@@ -1,0 +1,15 @@
+# nginx-pod.yaml
+kind: Pod
+apiVersion: v1
+metadata:
+  name: nginx-pod
+  labels:
+    app: nginx-app
+    tier: dev
+aanotations:
+  createdBy: Shahid Rafique
+  email: writetomsr@gmail.com
+spec:
+  containers:
+    - name: nginx-container
+      image: nginx

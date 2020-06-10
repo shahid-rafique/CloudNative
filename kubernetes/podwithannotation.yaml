@@ -1,0 +1,17 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: podwithlabel
+annotations:
+  createdBy: Shahid Rafique
+  email: writetomsr@gmail.com
+  labels:
+    section: textfile
+    type: frontend
+    env: development
+spec:
+  containers:
+    - name: container1
+      image: aamirpinger/helloworld
+      ports:
+        - containerPort: 80
