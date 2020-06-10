@@ -1,0 +1,18 @@
+https://askubuntu.com/questions/488485/allowing-a-group-read-write-access-to-a-directory
+
+
+
+How to setup proxy server on ubuntu
+
+https://www.tecmint.com/install-squid-in-ubuntu/
+
+https://www.tecmint.com/configure-squid-server-in-linux/
+
+access internet faster with proxy
+
+https://www.youtube.com/watch?v=BGhZRh0VGhg
+https://www.youtube.com/watch?v=BGhZRh0VGhg&t=3s
+
+
+active directory installation
+https://www.youtube.com/watch?v=BGhZRh0VGhg&t=3s
